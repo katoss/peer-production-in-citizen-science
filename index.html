@@ -1,0 +1,42 @@
+---
+layout: default
+title: Peer Production in Citizen Science
+---
+<div>
+  <h2>Welcome</h2>
+This website is dedicated to my PhD project, in which I explored an online collaboration approach called “peer production” as a means to support deeper volunteer engagement in citizen science projects.
+By summarizing methods and lessons from my thesis and sharing them on this website, I hope to provide a useful resource for citizen science researchers and practitioners facing similar challenges striving for meaningful volunteer engagement in their online projects (_**jump right to the resources**_). 
+</div>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
