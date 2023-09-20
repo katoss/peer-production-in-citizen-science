@@ -2,8 +2,8 @@
 _Sharing lessons on using peer production in citizen science from my PhD thesis_
 
 ## Welcome
-This website is dedicated to my PhD project, in which I explored an online collaboration approach called “peer production” as a means to support deeper volunteer engagement in citizen science projects.
-By summarizing methods and lessons from my thesis and sharing them on this website, I hope to provide a useful resource for citizen science researchers and practitioners facing similar challenges striving for meaningful volunteer engagement in their online projects ([_**jump directly to the resources**_](#resources-for-citizen-science-practitioners)). 
+This website shares lessons from my PhD project, in which I explored an online collaboration approach called **“peer production” as a means to support deeper volunteer engagement in citizen science** projects.
+By summarizing methods and lessons from my thesis and sharing them on this website, I hope to provide a useful resource **for citizen science researchers and practitioners** facing similar challenges striving for meaningful volunteer engagement in their online projects ([_**jump directly to the resources**_](#resources-for-citizen-science-practitioners)). 
 
 ## My PhD project, in less than 150 words
 First, I tried to understand what peer production means, and if and how it is used in citizen science projects to date. To this end, I summarized [key characteristics of peer production to a working model](#), and applied it to three citizen science [case studies](#) (iNaturalist, Public Lab, Zooniverse).
