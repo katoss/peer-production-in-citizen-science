@@ -3,6 +3,7 @@ _Sharing lessons on using peer production in citizen science from my PhD thesis_
 
 ## Welcome
 This website shares lessons from my PhD project, in which I explored an online collaboration approach called **“peer production” as a means to support deeper volunteer engagement in citizen science** projects.
+
 By summarizing methods and lessons from my thesis and sharing them on this website, I hope to provide a useful resource **for citizen science researchers and practitioners** facing similar challenges striving for meaningful volunteer engagement in their online projects ([_**jump directly to the resources**_](#resources-for-citizen-science-practitioners)). 
 
 ## My PhD project, in less than 150 words
