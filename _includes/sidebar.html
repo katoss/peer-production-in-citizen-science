@@ -10,7 +10,12 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/about' | absolute_url }}">About</a>
+    <span class="sidebar-nav-item">Introductions</span>
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/introvolunteerengagement' | absolute_url }}">Volunteer Engagement in Citizen Science</a>
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/intropersonalscience' | absolute_url }}">Personal Science</a>
+
+
+    <span class="sidebar-nav-item">Design Resources</span>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -19,14 +24,15 @@
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
-      {% if node.title != null %}
+      {% if node.title != null and node.title != "About" and node.title != "Personal Science" and node.title != "Volunteer Engagement in Citizen Science" %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
 
-    <span class="sidebar-nav-item">Resources</span>
+    <span class="sidebar-nav-item">Other</span>
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/about' | absolute_url }}">About</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
   </nav>
 
