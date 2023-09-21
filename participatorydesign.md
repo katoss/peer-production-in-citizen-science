@@ -4,7 +4,7 @@ title: Participatory Design
 ---
 
 <p class="message">
-  These guidelines are based on my experiences implementing a peer production approach with the personal science community. They can be found in Appendix A.11.2 of my <a href="">thesis</a>, and are related to the discussion in Chapter 5.2. 
+  These guidelines are based on my experiences implementing a peer production approach with the personal science community. They are related to the discussion in Chapter 5.2 and can be found in Appendix A.11.2 of my <a href="">thesis</a>. 
 </p>
 
 ### Process Recommendations for the Participatory Design of Peer Production Systems
