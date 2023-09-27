@@ -6,6 +6,8 @@ title: Information Architecture
 <h2>Designing Information Architectures Using the “Card Sorting” Method</h2>
 <p class="message">This guide is based on my experiences developing a knowledge management system with the personal science community. For more details, please see Chapter 4 of my <a href="">thesis</a>.</p>
 
+<p style="color:red;"><i>This page is currently a work in progress</i></p>
+
 * Motivation: determining information architecture (navigation structure) that makes sense to users
 * What: Open card sorting method, from user experience research. Explain principle.
 * Preparation

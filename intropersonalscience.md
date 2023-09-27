@@ -4,7 +4,7 @@ title: Personal Science
 ---
 
 <h2>Introduction to Personal Science</h2>
-<p>TBD</p>
+<p style="color:red;"><i>This page is currently a work in progress</i></p>
 
 * Introducing the CS community I worked with during the thesis
 * "CS in the wider sense" --> more later
