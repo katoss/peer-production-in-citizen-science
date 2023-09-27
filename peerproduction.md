@@ -263,6 +263,7 @@ After the case studies, I ran a design thinking process with the personal scienc
 
 
 <h2>References</h2>
-* Kostakis & Bauwens
-* Benkler
-* Fuster Morell 21
+* Benkler, Y. (2002). Coase's penguin, or, linux and" the nature of the firm". Yale law journal, 369-446. <a href="https://doi.org/10.2307/1562247">https://doi.org/10.2307/1562247</a>
+* Benkler, Y. (2016). Peer production and cooperation. Handbook on the Economics of the Internet, 91-119.
+* Kostakis, V., & Bauwens, M. (2020). Grammar of peer production. <i>The handbook of peer production</i>, 19-32. <a href="https://doi.org/10.1002/9781119537151.ch2">https://doi.org/10.1002/9781119537151.ch2</a>  
+* Morell, M. F., Cigarini, A., & Senabre Hidalgo, E. (2021, May 26). A framework for assessing the commons qualities of citizen science: comparative analysis of five digital platforms. <a href="https://doi.org/10.31235/osf.io/pv78g">https://doi.org/10.31235/osf.io/pv78g</a>
