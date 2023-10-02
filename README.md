@@ -25,9 +25,3 @@ Link to the website: <a href="katoss.github.io/peer-production-in-citizen-scienc
 <p>This website uses the open source <a href="https://github.com/poole/lanyon">"Lanyon"</a> template.</p>
 <h2 id="contact">Contact</h2>
 <p>To get in touch, you can contact me via <a href="mailto:ka.kloppenborg@gmail.com">email</a> or create an <a href="https://github.com/katoss/peer-production-in-citizen-science/issues">issue on GitHub</a>. Feedback is very much appreciated!</p>
-
-
-## Contact
-To get in touch, you can contact me via email (add) or create an issue on GitHub. Feedback is highly appreciated! 
-
-
