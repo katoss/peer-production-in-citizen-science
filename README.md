@@ -3,6 +3,7 @@
   <p>This website shares lessons from my <a href="About">PhD project</a>, in which I explored an online collaboration approach called <strong>“peer production” as a means to support deeper volunteer engagement in citizen science</strong> projects.</p>
   <p>By summarizing methods and lessons from my thesis and sharing them on this website, I hope to provide a useful resource <strong>for citizen science researchers, practitioners, and communities</strong> facing similar challenges striving for meaningful volunteer engagement in their online projects.</p>
 </div>
+Link to the website: <a href="katoss.github.io/peer-production-in-citizen-science/">katoss.github.io/peer-production-in-citizen-science/</a>
 <div style="border:1px solid black;padding:0px 15px 0px 15px;display: inline-block;">
   <h2 id="resources-for-citizen-science-practitioners">Resources for Citizen Science Practitioners</h2>
   <p><em>Start here</em></p>
