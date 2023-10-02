@@ -12,7 +12,7 @@ title: Volunteer Engagement in Citizen Science
 <p>Since then, many researchers have tried to formalize the understanding of citizen science by developing a multitude of <b>frameworks</b> (see Schrögel and Kolleck (2019) for a review). A frequently used framework is that of Shirk et al. (2012), where projects are categorized by the <b>steps of research that the public can participate in</b> (see Figure 1). These projects range from "contractual" and "contributory", where volunteers contribute to the idea, or the data collection or annotation, to "co-created" projects, where they are involved in all steps. In "collegiate" projects, the whole project is done by volunteers, sometimes with no academic institutions involved at all.</p>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/katoss/peer-production-in-citizen-science/main/assets/img/participation-citsci.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/katoss/peer-production-in-citizen-science/main/assets/img/participation-citsci.png" width="auto"/>
   <figcaption>
     Figure 1. Levels of public participation in scientific research, and the categorization of European citizen science projects into these levels. 
   </figcaption>

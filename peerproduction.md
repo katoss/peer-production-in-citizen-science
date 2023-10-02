@@ -3,7 +3,7 @@ layout: page
 title: Peer Production
 ---
 <p class="message">
-  These guidelines are a a summary and quick reference of Chapter 2 of my <a href="">thesis</a>. For more details feel free to check out the thesis. 
+  These guidelines are a a summary and quick reference of Chapter 2 of my <a href="">thesis</a> <span><i>(thesis currently under review, link will be posted soon)</i></span>. For more details feel free to check out the thesis. 
 </p>
 
 <h2>Peer Production in Citizen Science: What? Why? How?</h2>
